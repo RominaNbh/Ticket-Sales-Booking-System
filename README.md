@@ -11,3 +11,9 @@ There are 4 packages in the program. "views" that is relevant to the UI. "models
 In which you can Sign up, log in or delete you account.
 ###### Main menu
 Which you can 
+
+
+## Here you can check the class diagram:
+https://docs.google.com/document/d/1KhzPCGT8l7Qy8Z32vs5JSJ_I5gOzDV44ATBHVVyle-I/edit?usp=sharing
+## Here is the java doc
+file:///C:/Users/EMERTAT/IdeaProjects/AP_class%20diagram/index.html
