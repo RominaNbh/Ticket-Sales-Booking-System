@@ -16,3 +16,6 @@ https://docs.google.com/document/d/1qzdXwdXQoGTJMzRlcjdVbkF9r6DLJUJ9MLWKxu75H_w/
 
 ## Here you can check the class diagram:
 https://docs.google.com/document/d/1KhzPCGT8l7Qy8Z32vs5JSJ_I5gOzDV44ATBHVVyle-I/edit?usp=sharing
+
+## Here is the sequence diagram
+https://docs.google.com/document/d/1UUz6FFxscE5lfoL-e6YH4jl5aaFzsHhB9MNooVSNBX8/edit?usp=sharing
